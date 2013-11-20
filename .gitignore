@@ -1,0 +1,29 @@
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Python stuff
+*.py[co]
+env
+
+# IDE Stuff
+.idea
+
+# OS Stuff
+.DS_Store
+.localized
